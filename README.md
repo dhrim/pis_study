@@ -15,4 +15,4 @@
 집 속성과 집 사진을 입력으로 집값 예측.
 
 - 원 기사 : https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
-- 학습 자료 : [mixed_input](mixed_input)
+- 학습 자료 : [mixed_input_classification](mixed_input_classification)
