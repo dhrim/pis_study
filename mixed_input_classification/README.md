@@ -1,0 +1,1 @@
+요약해서 작성한 노트북 : [functional_api.ipynb](../functional_api/functional_api.ipynb)
