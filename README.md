@@ -20,7 +20,12 @@
 
 <br>
 
-CNN 분류기를 가지고 Object Detection 구현하기
+# CNN 분류기를 가지고 Object Detection 구현하기
 
 - 원 기사 : https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/
 - 학습 자료 : [classifier_into_object_detection](classifier_into_object_detection)
+
+Non-Maxia Sumpression에 대한 설명 자료
+- https://docs.google.com/presentation/d/1aeRvtKG21KHdD5lg6Hgyhx5rPq_ZOsGjG5rJ1HP7BbA
+
+
