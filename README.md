@@ -16,3 +16,11 @@
 
 - 원 기사 : https://www.pyimagesearch.com/2019/02/04/keras-multiple-inputs-and-mixed-data/
 - 학습 자료 : [mixed_input_classification](mixed_input_classification)
+
+
+<br>
+
+CNN 분류기를 가지고 Object Detection 구현하기
+
+- 원 기사 : https://www.pyimagesearch.com/2020/06/22/turning-any-cnn-image-classifier-into-an-object-detector-with-keras-tensorflow-and-opencv/
+- 학습 자료 : [classifier_into_object_detection](classifier_into_object_detection)
