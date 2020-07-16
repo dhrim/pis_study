@@ -10,4 +10,5 @@
 - notebook으로 옮긴 것 : [multi_classificaiton_with_fashionnet.ipynb](multi_classificaiton_with_fashionnet.ipynb)
 
 <br>
+
 - 내용을 간추려서 다시 작성한 : [functional_api.ipynb](../functional_api/functional_api.ipynb)
