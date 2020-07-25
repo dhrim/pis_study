@@ -6,5 +6,5 @@ Mask R-CNN으로 물체 탐지
 - 실행 코드 : [mask_rcnn.ipynb](mask_rcnn.ipynb)
 - 받은 소스 코드 : [keras-mask-rcnn.zip](keras-mask-rcnn.zip)
 
-
+- 사용된 MARK-R-CNN 프로젝트 : https://github.com/matterport/Mask_RCNN
 
