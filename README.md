@@ -43,3 +43,17 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 - 원 기사 : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
 - 학습 자료 : [covid_classification](covid_classification)
+
+<br>
+
+# OCR
+
+- 원 기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+- 학습 자료 : [OCR](OCR)
+
+<br>
+
+# Anomaly Detection
+
+- 원 기사 : https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
+- 학습 자료 : [anomalydetection](anomalydetection)
