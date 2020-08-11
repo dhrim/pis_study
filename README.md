@@ -57,3 +57,10 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 - 원 기사 : https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
 - 학습 자료 : [anomalydetection](anomalydetection)
+
+<br>
+
+# Social Distance Detector
+
+- 원기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+- 학습 자료 : [social_distance_detector](social_distance_detector)
