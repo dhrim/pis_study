@@ -56,7 +56,7 @@ Non-Maxia Sumpression에 대한 설명 자료
 # Anomaly Detection
 
 - 원 기사 : https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
-- 학습 자료 : [anomalydetection](anomalydetection)
+- 학습 자료 : [anomaly_detection](anomaly_detection)
 
 <br>
 
