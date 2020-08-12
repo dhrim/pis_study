@@ -64,3 +64,10 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 - 원기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
 - 학습 자료 : [social_distance_detector](social_distance_detector)
+
+<br>
+
+# Detecting Natural Diaster
+
+- 원기사 : 원기사 : https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
+- 학습 자료 : [detecting_natural_disaster](detecting_natural_disaster)
