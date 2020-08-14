@@ -33,6 +33,8 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 # 화재 영상 분류
 
+화애 영상 분류
+
 - 원 기사 : https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/
 - 학습 자료 : [fire_detection](fire_detection)
 
@@ -69,5 +71,19 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 # Detecting Natural Diaster
 
+재앙 사진을 분류.
+
 - 원기사 : 원기사 : https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
 - 학습 자료 : [detecting_natural_disaster](detecting_natural_disaster)
+
+
+<br>
+
+# R-CNN 구현
+
+openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하고, CNN으로 대상 여부를 분류하여 object detection을 구현.
+
+커스텀 데이터로 학습한다.
+
+- 원기사 : 원기사 : https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
+- 학습 자료 : [training-rcnn-keras](training-rcnn-keras)
