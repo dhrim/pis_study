@@ -91,7 +91,7 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 <br>
 
-# Maek R-CNN
+# Mask R-CNN
 
 
 원기사 : 원기사 : https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/
