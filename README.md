@@ -85,7 +85,7 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 커스텀 데이터로 학습한다.
 
-- 원기사 : 원기사 : https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
+- 원기사 : https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
 - 학습 자료 : [training-rcnn-keras](training-rcnn-keras)
 
 
@@ -96,3 +96,10 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 - 원기사 : 원기사 : https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/
 - 학습 자료 : mask_rcnn
+
+<br>
+
+# 말라리아 이미지 분류
+
+- 원기사 : https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/
+- 학습 자료 : [dl-medical-imaging](dl-medical-imaging)
