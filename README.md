@@ -103,3 +103,11 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 - 원기사 : https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/
 - 학습 자료 : [dl-medical-imaging](dl-medical-imaging)
+
+
+<br>
+
+# 다양한 모델 classification
+
+- 원기사 : https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+- 학습 자료 : [keras-networks](keras-networks)
