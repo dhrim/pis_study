@@ -115,7 +115,7 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 <br>
 
-# 암 영상 분류다양한
+# 암 영상 분류
 
 - 원기사 : https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
 - 학습 자료 : [cancer_cnn_imaging](cancer_cnn_imaging)
