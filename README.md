@@ -128,3 +128,12 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 - 학습 자료 : [cancer_cnn_imaging](cancer_cnn_imaging)
 
 
+<br>
+
+# Tesseract를 사용한 글자 인식
+
+- 원기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+- 학습 자료 : [localize_text_tesseract](localize_text_tesseract)
+
+
+
