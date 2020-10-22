@@ -1,3 +1,7 @@
+https://www.pyimagesearch.com의 내용으로 스터디한 자료들.
+
+<br>
+
 # Multi Label Classification with Keras
 
 복수 분류를 한개의 모델로 처리.
