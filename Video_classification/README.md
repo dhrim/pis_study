@@ -6,7 +6,9 @@
   * [Fine tuning](https://www.pyimagesearch.com/2019/06/03/fine-tuning-with-keras-and-deep-learning/)
 
 ## Code 
+https://github.com/Choa-Lee/pis_study/blob/master/Video_classification/keras_video_classification.ipynb
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C2vED82YhLuq8DvtLIavnqAVGGbp3tEI#scrollTo=lj-l1d_EOs0e)
 
-
 ## [Original dataset](https://github.com/anubhavmaity)
+
+## [Presentation file](https://github.com/Choa-Lee/pis_study/blob/master/Video_classification/Keras-video-classification.pdf)
