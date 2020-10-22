@@ -130,10 +130,9 @@ openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하
 
 <br>
 
-# Tesseract를 사용한 글자 인식
+# 동영상 분류
 
-- 원기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
-- 학습 자료 : [localize_text_tesseract](localize_text_tesseract)
-
+- 원기사 : https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+- 학습 자료 : [Video_classification](Video_classification)
 
 
