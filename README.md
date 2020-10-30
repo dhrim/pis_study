@@ -1,3 +1,7 @@
+https://www.pyimagesearch.com의 내용으로 스터디한 자료들.
+
+<br>
+
 # Multi Label Classification with Keras
 
 복수 분류를 한개의 모델로 처리.
@@ -33,6 +37,8 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 # 화재 영상 분류
 
+화애 영상 분류
+
 - 원 기사 : https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/
 - 학습 자료 : [fire_detection](fire_detection)
 
@@ -43,3 +49,94 @@ Non-Maxia Sumpression에 대한 설명 자료
 
 - 원 기사 : https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/
 - 학습 자료 : [covid_classification](covid_classification)
+
+<br>
+
+# OCR
+
+- 원 기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+- 학습 자료 : [OCR](OCR)
+
+<br>
+
+# Anomaly Detection
+
+- 원 기사 : https://www.pyimagesearch.com/2020/03/02/anomaly-detection-with-keras-tensorflow-and-deep-learning/
+- 학습 자료 : [anomaly_detection](anomaly_detection)
+
+<br>
+
+# Social Distance Detector
+
+- 원기사 : https://www.pyimagesearch.com/2020/05/25/tesseract-ocr-text-localization-and-detection/
+- 학습 자료 : [social_distance_detector](social_distance_detector)
+
+<br>
+
+# Detecting Natural Diaster
+
+재앙 사진을 분류.
+
+- 원기사 : 원기사 : https://www.pyimagesearch.com/2019/11/11/detecting-natural-disasters-with-keras-and-deep-learning/
+- 학습 자료 : [detecting_natural_disaster](detecting_natural_disaster)
+
+
+<br>
+
+# R-CNN 구현
+
+openCV의 SelectiveSearchSegmentation 알고리즘으로 박스 후보를 구하고, CNN으로 대상 여부를 분류하여 object detection을 구현.
+
+커스텀 데이터로 학습한다.
+
+- 원기사 : https://www.pyimagesearch.com/2020/07/13/r-cnn-object-detection-with-keras-tensorflow-and-deep-learning/
+- 학습 자료 : [training-rcnn-keras](training-rcnn-keras)
+
+
+<br>
+
+# Mask R-CNN
+
+
+- 원기사 : 원기사 : https://www.pyimagesearch.com/2019/06/10/keras-mask-r-cnn/
+- 학습 자료 : [mask_rcnn](mask_rcnn)
+- 학습 자료 : [Mask_R-CNN](Mask_R-CNN)
+
+
+
+
+
+
+
+<br>
+
+# 말라리아 이미지 분류
+
+- 원기사 : https://www.pyimagesearch.com/2018/12/03/deep-learning-and-medical-image-analysis-with-keras/
+- 학습 자료 : [dl-medical-imaging](dl-medical-imaging)
+
+
+<br>
+
+# 다양한 모델 classification
+
+- 원기사 : https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+- 학습 자료 : [keras-networks](keras-networks)
+
+
+<br>
+
+# 암 영상 분류
+
+- 원기사 : https://www.pyimagesearch.com/2019/02/18/breast-cancer-classification-with-keras-and-deep-learning/
+- 학습 자료 : [cancer_cnn_imaging](cancer_cnn_imaging)
+
+
+<br>
+
+# 동영상 분류
+
+- 원기사 : https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/
+- 학습 자료 : [Video_classification](Video_classification)
+
+
